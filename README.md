@@ -11,4 +11,4 @@
                               
  <p>Minha formação anterior proporcionou-me habilidades valiosas, como: Conhecimento em Instrumentação, Habilidades Analíticas, Trabalho em Equipe, Resolução de Problemas, Pensamento Crítico e Aprendizado Contínuo. Estou confiante de que essa experiência, aliada ao meu comprometimento com o aprendizado contínuo, me capacita para uma transição bem-sucedida para a área de tecnologia.</p>    
  
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EricMedeiros/EricMedeiros/blob/output/github-contribution-grid-snake.svg)

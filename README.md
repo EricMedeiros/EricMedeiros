@@ -12,7 +12,8 @@
   <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
   <img align="center" alt="Cris-Csharp" height="37" width="37" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br><br>
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Cris-VS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"><br><br>
 </div>
 
  <p>Minha formação anterior me proporcionou habilidades valiosas, como: Conhecimento em Instrumentação, Habilidades Analíticas, Trabalho em Equipe, Resolução de Problemas, Pensamento Crítico e Aprendizado Contínuo. Essa experiência, alinhada ao meu comprometimento com o aprendizado contínuo, me capacita para uma transição bem-sucedida para a área de tecnologia.</p>    
@@ -31,7 +32,7 @@
 <div> 
  
   <a href="https://www.instagram.com/4bstrat0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:eric_alves8@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:eric_alves8@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eric-medeiros-alves-947aaa204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
